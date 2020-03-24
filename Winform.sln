@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayeredApp", "LayeredApp\LayeredApp.csproj", "{F6C2AA95-A8CA-4DA3-8D5B-0B115404B648}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayeredApp.Data", "LayeredApp.Data\LayeredApp.Data.csproj", "{284236E3-BF1A-4BBC-BE55-45B3DE8394C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6C2AA95-A8CA-4DA3-8D5B-0B115404B648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C2AA95-A8CA-4DA3-8D5B-0B115404B648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C2AA95-A8CA-4DA3-8D5B-0B115404B648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284236E3-BF1A-4BBC-BE55-45B3DE8394C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284236E3-BF1A-4BBC-BE55-45B3DE8394C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284236E3-BF1A-4BBC-BE55-45B3DE8394C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284236E3-BF1A-4BBC-BE55-45B3DE8394C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
